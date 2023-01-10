@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a6b055c2.css","mappings":"AAAA,KAEC,kBAAmB,CADnB,YAAa,CAEb,qBACD","sources":["components/ReactRoute/App.css"],"sourcesContent":[".App{\r\n\tdisplay: flex;\r\n\talign-items: center;\r\n\tflex-direction: column;\r\n}"],"names":[],"sourceRoot":""}
